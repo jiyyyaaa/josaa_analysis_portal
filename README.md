@@ -38,4 +38,10 @@ python manage.py runserver
 
 Open a web browser and go to http://127.0.0.1:8000/ to view the Josaa Analysis Portal application.
 
+### SNAPSHOTS
+![Screenshot 2024-06-16 103938](https://github.com/jiyyyaaa/josaa_analysis_portal/assets/163669864/dc470e2c-6fde-4b81-9419-00ea022340f1)
+![Screenshot 2024-06-16 104023](https://github.com/jiyyyaaa/josaa_analysis_portal/assets/163669864/37795d4c-5775-4b05-a8e3-bcd7516fb348)
+![Screenshot 2024-06-16 104101](https://github.com/jiyyyaaa/josaa_analysis_portal/assets/163669864/1185565b-42f1-4177-a661-ef146ef988ae)
+![Screenshot 2024-06-16 104130](https://github.com/jiyyyaaa/josaa_analysis_portal/assets/163669864/8e17a338-1704-4ba5-a78b-bb4dffece8f1)
+![Screenshot 2024-06-16 104146](https://github.com/jiyyyaaa/josaa_analysis_portal/assets/163669864/5d8ae1e6-9387-4696-a557-f76cad0baad2)
 
