@@ -21,20 +21,20 @@ Welcome to the Josaa Analysis Portal, a Django-based web application designed to
    ```bash
    cd josaa_analysis_portal_final
    ```
-3.(Optional) Set up a virtual environment:
+3. (Optional) Set up a virtual environment:
 ```bash
 python -m venv env
 source env/bin/activate  # Activate the virtual environment
 ```
-4.Install dependencies from requirements.txt
+4. Install dependencies from requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
-5.Apply migrations to set up the database
+5. Apply migrations to set up the database
 ```bash
 python manage.py runserver
 ```
-6.Access the Application: 
+6. Access the Application: 
 
 Open a web browser and go to http://127.0.0.1:8000/ to view the Josaa Analysis Portal application.
 
