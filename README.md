@@ -17,4 +17,25 @@ Welcome to the Josaa Analysis Portal, a Django-based web application designed to
    ``` bash
    git clone https://github.com/jiyyyaaa/josaa_analysis_portal/.git
    ```
+2. Change the project directory
+   ```bash
+   cd josaa_analysis_portal_final
+   ```
+3.(Optional) Set up a virtual environment:
+```bash
+python -m venv env
+source env/bin/activate  # Activate the virtual environment
+```
+4.Install dependencies from requirements.txt
+```bash
+pip install -r requirements.txt
+```
+5.Apply migrations to set up the database
+```bash
+python manage.py runserver
+```
+6.Access the Application: 
+
+Open a web browser and go to http://127.0.0.1:8000/ to view the Josaa Analysis Portal application.
+
 
