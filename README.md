@@ -14,5 +14,7 @@ Welcome to the Josaa Analysis Portal, a Django-based web application designed to
 
 #### Installation Steps
 1. Clone the repository
-   ```git clone https://github.com/jiyyyaaa/josaa_analysis_portal/.git```
+   ``` bash
+   git clone https://github.com/jiyyyaaa/josaa_analysis_portal/.git
+   ```
 
