@@ -24,7 +24,7 @@ Welcome to the Josaa Analysis Portal, a Django-based web application designed to
 3. (Optional) Set up a virtual environment:
 ```bash
 python -m venv env
-source env/bin/activate  # Activate the virtual environment
+source env/bin/activate 
 ```
 4. Install dependencies from requirements.txt
 ```bash
