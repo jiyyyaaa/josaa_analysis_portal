@@ -7,3 +7,12 @@ Welcome to the Josaa Analysis Portal, a Django-based web application designed to
   -Exploring available IITs and their branches.<br/>
   -Predicting admission chances using analytical tools.<br/>
 
+### INSTALLATION
+#### Prerequisites
+  - Python 3.x
+  - Git
+
+#### Installation Steps
+1. Clone th repository
+   `git clone https://github.com/jiyyyaaa/josaa_analysis_portal/.git`
+
