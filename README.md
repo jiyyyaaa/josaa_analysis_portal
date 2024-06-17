@@ -27,9 +27,9 @@ Welcome to the Josaa Analysis Portal, a Django-based web application designed to
     source env/bin/activate 
    ```
 4. Install dependencies from requirements.txt
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 5. Apply migrations to set up the database
    ```bash
     python manage.py runserver
