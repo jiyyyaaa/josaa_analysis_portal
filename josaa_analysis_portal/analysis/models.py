@@ -5,8 +5,8 @@ class rank_data(models.Model):
     program = models.CharField(max_length=100)
     seat_type = models.CharField(max_length=50)
     gender = models.CharField(max_length=100)
-    opening_rank = models.FloatField()  # Change from IntegerField to FloatField
-    closing_rank = models.FloatField()  # Change from IntegerField to FloatField
+    opening_rank = models.FloatField()  
+    closing_rank = models.FloatField()  
     year = models.IntegerField()
     roundNo = models.IntegerField()
 
